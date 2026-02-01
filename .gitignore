@@ -11,3 +11,5 @@ wheels/
 
 # qlab data directory (test results)
 qlab_data/
+
+results/
