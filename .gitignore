@@ -13,3 +13,6 @@ wheels/
 qlab_data/
 
 results/
+
+# GitHub Actions artifacts (if any)
+.github/workflows/*.log
